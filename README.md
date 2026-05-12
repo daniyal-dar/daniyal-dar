@@ -16,6 +16,5 @@
 ### $ ssh --list-protocols ./connectivity/
 * **LinkedIn:** [daniyaldar](https://www.linkedin.com/in/daniyaldar/)
 * **Email:** [daniyal.dar.777@gmail.com](mailto:daniyal.dar.777@gmail.com)
-* **Mastodon:** [@Daniyal](https://mastodon.social/@Daniyal)
 
 ---
